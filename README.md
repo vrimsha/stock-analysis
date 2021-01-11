@@ -36,14 +36,14 @@
 <br>Advantages of refactoring a code are the faster performance, clear code that easy to read, and an opportunity to work properly with thousands of stocks.</br>
 <br>Disadvantages of refactoring a code are cost, risks and working with bugs.</br>
 <br>The benefits of refactored VBA scrip are:</br>
-•	The speed of performance is faster by 0.23 seconds. 
-•	The code is easier to understand for future users
-•	Helps to find bags
-•	Find new ways to write a code
-The weaknesses of refactored VBA script are:
-•	Fix bugs
-•	Extra time 
-•	Extra cost
+-	The speed of performance is faster by 0.23 seconds. 
+-	The code is easier to understand for future users
+-	Helps to find bags
+-	Find new ways to write a code
+<br>The weaknesses of refactored VBA script are:</br>
+- Fix bugs
+-	Extra time 
+-	Extra cost
 
 
 
