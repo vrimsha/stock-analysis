@@ -13,7 +13,7 @@
 
 ![2018_result_before_refactoring](2018_result_before.png)
 
-<br>I followed a prepared code structure from [the VBA code structure](/VBA_Challenge.vbs file).</br>
+<br>I followed a prepared code structure from (/VBA_Challenge.vbs file)</br>
 <br>Next step was refactoring the VBA code in order to make the new code more efficient (fewer steps, less memory, easier to read).</br>
 <br>Please see below refactored loop:</br>
 
