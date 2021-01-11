@@ -7,6 +7,7 @@
 <br> I have measured “All Stocks Analysis” original script performances for two years before refactoring it.</br>
 <br>The script performance for 2017 year is 0.59375:</br>
 
+![2017_result_before_refactoring](2017_result_before.png)
 
 <br>The script performance for 2018 year is 0.609375:</br>
 
@@ -29,6 +30,7 @@ In 2017 almost all 12 tickers went up in return by minimum 5%, maximum 199.4% ex
 In 2018 you can see a different situation, when most of tickers had negative return except two tickers ENPH and RUN.
  
 Daqo Stock had a high return 199.4% with 35,796.200 total daily volume in 2017. However, in 2018 it had -62.6% in return with 107,873.900 total daily volume. As a result, it is not best to time for the client to invest in the stock when return result is negative.
+
 ## Summary
 Advantages of refactoring a code are the faster performance, clear code that easy to read, and an opportunity to work properly with thousands of stocks.
 Disadvantages of refactoring a code are cost, risks and working with bugs.
