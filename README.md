@@ -5,36 +5,37 @@
 
 ## Analysis 
 <br> I have measured “All Stocks Analysis” original script performances for two years before refactoring it.</br>
-<br>The script performance for 2017 year is 0.59375:</br>
+<br>The script performance ran 0.59375 seconds for the 2017 year:</br>
 
 ![2017_result_before_refactoring](2017_result_before.png)
 
-<br>The script performance for 2018 year is 0.609375:</br>
+<br>The script performance ran 0.609375 seconds for the 2018 year:</br>
 
+![2018_result_before_refactoring](2018_result_before.png)
 
-I followed a prepared code structure from VBA_Challenge.vbs file.
-Next step was refactoring the VBA code in order to make the new code more efficient (fewer steps, less memory, easier to read).
-Please see below refactored loop:
+<br>I followed a prepared code structure from VBA_Challenge.vbs file.</br>
+<br>Next step was refactoring the VBA code in order to make the new code more efficient (fewer steps, less memory, easier to read).</br>
+<br>Please see below refactored loop:</br>
 
-I have measured new performance results. 
-Refactored script performance for 2017 year is 0.140625:
+<br>I have measured new performance results. </br>
+<br>Refactored script performance ran 0.140625 seconds for the 2017 year:</br>
 
-Refactored script performance for 2018 year is 0.140625:
+<br>Refactored script performance ran 0.140625 seconds for the 2018 year:</br>
 
 ## Results
-The refactored code runs faster by 0.23 seconds in 2017 and 2018.
-I compared All Stocks “Return” results in 2017 and 2018. 
+<br>The refactored code runs faster by 0.23 seconds in 2017 and 2018.</br>
+<br>I compared All Stocks “Return” results in 2017 and 2018.</br>
 
-In 2017 almost all 12 tickers went up in return by minimum 5%, maximum 199.4% except ticker: TERP. It went down by 7.2%.   
+<br>In 2017 almost all 12 tickers went up in return by minimum 5%, maximum 199.4% except ticker: TERP. It went down by 7.2%.</br>   
  
-In 2018 you can see a different situation, when most of tickers had negative return except two tickers ENPH and RUN.
+<br>In 2018 you can see a different situation, when most of tickers had negative return except two tickers ENPH and RUN.</br>
  
-Daqo Stock had a high return 199.4% with 35,796.200 total daily volume in 2017. However, in 2018 it had -62.6% in return with 107,873.900 total daily volume. As a result, it is not best to time for the client to invest in the stock when return result is negative.
+<br>Daqo Stock had a high return 199.4% with 35,796.200 total daily volume in 2017. However, in 2018 it had -62.6% in return with 107,873.900 total daily volume. As a result, it is not best to time for the client to invest in the stock when return result is negative.</br>
 
 ## Summary
-Advantages of refactoring a code are the faster performance, clear code that easy to read, and an opportunity to work properly with thousands of stocks.
-Disadvantages of refactoring a code are cost, risks and working with bugs.
-The benefits of refactored VBA scrip are:
+<br>Advantages of refactoring a code are the faster performance, clear code that easy to read, and an opportunity to work properly with thousands of stocks.</br>
+<br>Disadvantages of refactoring a code are cost, risks and working with bugs.</br>
+<br>The benefits of refactored VBA scrip are:</br>
 •	The speed of performance is faster by 0.23 seconds. 
 •	The code is easier to understand for future users
 •	Helps to find bags
