@@ -40,6 +40,7 @@
 -	The code is easier to understand for future users
 -	Helps to find bags
 -	Find new ways to write a code
+
 <br>The weaknesses of refactored VBA script are:</br>
 - Fix bugs
 -	Extra time 
