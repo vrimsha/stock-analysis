@@ -17,6 +17,8 @@
 <br>Next step was refactoring the VBA code in order to make the new code more efficient (fewer steps, less memory, easier to read).</br>
 <br>Please see below refactored loop:</br>
 
+![Refactored_loop.png](Refactored_loop.png)
+
 <br>I have measured new performance results. </br>
 <br>Refactored script performance ran 0.140625 seconds for the 2017 year:</br>
 
