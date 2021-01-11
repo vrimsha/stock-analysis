@@ -36,7 +36,7 @@
 
 <br>I have compared All Stocks “Return” results in 2017 and 2018.</br>
 
-<br>In 2017 almost all 12 tickers went up in return by minimum 5%, maximum 199.4% except ticker: TERP. It went down by 7.2%.</br>   
+<br>In 2017 almost all 12 tickers went up in return by minimum 5% and maximum 199.4% except ticker: TERP. It went down by 7.2%.</br>   
  
  ![VBA_Challenge_2017_result.png](VBA_Challenge_2017_result.png)
  
