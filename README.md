@@ -15,14 +15,18 @@
 
 <br>I followed a prepared code structure from VBA_Challenge.vbs.</br>
 <br>Next step was refactoring the VBA code in order to make the new code more efficient (fewer steps, less memory, easier to read).</br>
-<br>Please see below refactored loop:</br>
+<br>Please see below the refactored loops:</br>
 
 ![Refactored_loop.png](Refactored_loop.png)
 
 <br>I have measured new performance results. </br>
 <br>Refactored script performance ran 0.140625 seconds for the 2017 year:</br>
 
+![VBA_Challenge_2017](VBA_Challenge_2017.png)
+
 <br>Refactored script performance ran 0.140625 seconds for the 2018 year:</br>
+
+![VBA_Challenge_2018](VBA_Challenge_2018.png)
 
 ## Results
 <br>The refactored code runs faster by 0.23 seconds in 2017 and 2018.</br>
