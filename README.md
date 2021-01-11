@@ -1,4 +1,4 @@
-#VBA Challenge
+# VBA Challenge
 ## Overview of Project
 ### Purpose: 
 <br>The client wants to invest in Daqo's stock. Before investing in it they would like to expand the dataset to include the entire stock market over 2017 and 2018 years. All Stocks Analysis VBA script needs to be refactored.</br>
@@ -6,7 +6,11 @@
 ## Analysis 
 <br> I have measured “All Stocks Analysis” original script performances for two years before refactoring it.</br>
 <br>The script performance for 2017 year is 0.59375:</br>
+
+
 <br>The script performance for 2018 year is 0.609375:</br>
+
+
 I followed a prepared code structure from VBA_Challenge.vbs file.
 Next step was refactoring the VBA code in order to make the new code more efficient (fewer steps, less memory, easier to read).
 Please see below refactored loop:
