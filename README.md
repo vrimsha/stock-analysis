@@ -30,11 +30,19 @@
 
 ## Results
 <br>The refactored code runs faster by 0.23 seconds in 2017 and 2018.</br>
-<br>I compared All Stocks “Return” results in 2017 and 2018.</br>
+
+![VBA_Challenge_2017](VBA_Challenge_2017.png)
+![VBA_Challenge_2018](VBA_Challenge_2018.png)
+
+<br>I have compared All Stocks “Return” results in 2017 and 2018.</br>
 
 <br>In 2017 almost all 12 tickers went up in return by minimum 5%, maximum 199.4% except ticker: TERP. It went down by 7.2%.</br>   
  
+ ![VBA_Challenge_2017_result.png](VBA_Challenge_2017_result.png)
+ 
 <br>In 2018 you can see a different situation, when most of tickers had negative return except two tickers ENPH and RUN.</br>
+
+ ![VBA_Challenge_2018_result.png](VBA_Challenge_2018_result.png)
  
 <br>Daqo Stock had a high return 199.4% with 35,796.200 total daily volume in 2017. However, in 2018 it had -62.6% in return with 107,873.900 total daily volume. As a result, it is not best to time for the client to invest in the stock when return result is negative.</br>
 
